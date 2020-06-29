@@ -1,0 +1,7 @@
+sprintf
+open
+printf
+lseek
+mmap
+traverse
+foo1
